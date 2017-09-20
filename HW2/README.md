@@ -15,6 +15,7 @@ cable is 30 m above the ground, but 30 m away is a tree that is 35 m tall. Anoth
 engineer informs you that this is a catenary cable problem with the following solution
 
   $y(x)=\frac{T}{w}\cosh\left(\frac{w}{T}x\right)+y_{0}-\frac{T}{w}$.
+  <a href="https://www.codecogs.com/eqnedit.php?latex=y(x)=\frac{T}{w}\cosh\left(\frac{w}{T}x\right)&plus;y_{0}-\frac{T}{w}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y(x)=\frac{T}{w}\cosh\left(\frac{w}{T}x\right)&plus;y_{0}-\frac{T}{w}" title="y(x)=\frac{T}{w}\cosh\left(\frac{w}{T}x\right)+y_{0}-\frac{T}{w}" /></a>
 
   where y(x) is the height of the cable at a distance, x, from the lowest point, $y_{0}$,
   T is the tension in the cable, and w is the weight per unit length of the cable. Your
